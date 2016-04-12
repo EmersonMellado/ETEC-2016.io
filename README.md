@@ -10,7 +10,7 @@ You first need to install [node.js](http://nodejs.org/) if you do not already ha
 
 ## Run
 
-    1. Move into the project directory `$ cd binners-project-web`
+    1. Move into the project directory `$ cd project`
     2. Run `$ npm install`
     3. Run `$ bower install`
     4. Run `$ gulp serve` or `$npm start`
